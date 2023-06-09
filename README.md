@@ -1,0 +1,1 @@
+Este es un proyecto de estudio sobre el diseño avanzado de una api rest
